@@ -47,6 +47,5 @@ Pone un nombre descriptivo al archivo de los cambios que hicimos
           Crea una rama principal 
 
  "git push origin main" 
-Ya sube el archivo a la nube
 
- Fede del futuro puto ojala te sirva esta mierda 
+
