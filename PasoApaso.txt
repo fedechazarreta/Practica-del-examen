@@ -1,0 +1,50 @@
+PASO A PASO DE GITHUB!
+
+PASO NÚMERO 1: LOGUEARSE
+ "git config --global user.name"
+                           .email
+este comando te dice quien fue el ultimo en iniciar sesion y si pones tu nombre / email al final te loguea.
+
+PASO NÚMERO 2: INICIAR REPOSITORIO
+ "git init" 
+
+con este comando inicias un repositorio en la carpeta que estas parado.
+
+PASO NÚMERO 3: AÑADIR LINK DEL REPOSITORIO
+ "git remote -v" 
+
+con este comando ve el link que esta ahora mismo
+
+ "git remote remove origin" 
+
+con este comando borra el link repositorio y queda sin link.
+
+ "git remote add origin (link)"
+
+con este comando añade el link al cual se subiran los archivos.
+
+ COMANDO PARA VER EL ESTADO DEL ARCHIVO
+ "git status" 
+
+  Rojo: No se subio y no realizo ningun comando.
+  Verde: Esta por subirse
+  Gris: Se subio
+
+PASO NÚMERO 4: GUARDAR Y SUBIR EL ARCHIVO
+
+ "git add (Nombre del archivo)"
+
+Prepara el archivo para subirlo 
+
+ "git commit -m "mensaje" " 
+
+Pone un nombre descriptivo al archivo de los cambios que hicimos
+
+      ANTES DE HACER EL PUSH TENEMOS QUE TENER UNA RAMA QUE SE CREA CON 
+         
+         "git branch -m main" 
+         
+          Crea una rama principal 
+
+ "git push origin main" 
+Ya sube el archivo a la nube
