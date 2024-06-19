@@ -9,6 +9,7 @@ PASO NÚMERO 2: INICIAR REPOSITORIO
  "git init" 
 
 con este comando inicias un repositorio en la carpeta que estas parado.
+*NO INICIAR EN ESCRITORIO/*
 
 PASO NÚMERO 3: AÑADIR LINK DEL REPOSITORIO
  "git remote -v" 
@@ -48,4 +49,23 @@ Pone un nombre descriptivo al archivo de los cambios que hicimos
 
  "git push origin main" 
 
+sube el archivo 
 
+
+git clone (link)
+
+clona el repositorio de la nube
+
+
+
+
+
+
+
+
+
+
+
+
+
+L
